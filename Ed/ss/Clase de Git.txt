@@ -1,0 +1,26 @@
+Sistemas de control de versiones 
+Git, GitHub, GitKraken
+control de versiones
+cuando tenemos muchas versiones de un documento, nospermite registrar los cambios,historial, y demas
+puedes regresar a trabjos anteriores, tiene las versiones
+cada desarrollador tiene sucopia completa de repositorio
+Git toma fotografías y las guarda localmente
+usa referencias y hashes 
+ramas
+
+Conceptos:
+Repositorios: almacén de proyecto, archivos y veriones
+Commit: instancia guardada del estado del proyecto, registra cambios
+Etapas de commit: Cree, modifique, elimine unarchivo
+areas de selección, elijoque cambio guardar en una rama personal, haz una descripción
+Rama (Branch): representa una línea de desarrollo independiente en tu proyecto, 
+funcionalidades, correcciones o experimentos sin afectar el código principal
+Una rama se genera a partir de un commit
+Rama Main: es el estado principal del proyecto
+Merge: une doshistoriales de desarrollo en de ramas distintas en un historial unificado. Se presenta como commit
+Merge conflicts: no puede combinar automaticamente loscambios de dos ramas porque hay modificaciones
+en las mismas líneas de una rama
+Checkout: Cambio entre versiones o ramas de un repositorio, es mas general
+puedes cambiar de ramas o moverteentre versiones de commit
+Git Init: Utilizas para iniciar tu repositorio
+Git estatus:Es el estado actual en el que se encuentra mirama, todas las versiones que ya hice o modificaciones
