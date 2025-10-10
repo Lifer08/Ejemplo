@@ -1,3 +1,4 @@
+Comandos de Git para utilizar:
 git add .    Dejar en espera cambos realizados
 git commit -m ""   Agregar comentarios a los cambios en espera añadidos con el git add
 git push   Sube los cambios a los repositoriosde GitHub
