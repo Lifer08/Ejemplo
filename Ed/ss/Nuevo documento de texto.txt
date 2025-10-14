@@ -1,6 +1,7 @@
-Comandos de Git para utilizar:
+Comandos de Git para utilizar
 git add .    Dejar en espera cambos realizados
 git commit -m ""   Agregar comentarios a los cambios en espera añadidos con el git add
 git push   Sube los cambios a los repositoriosde GitHub
 git pull   Baja los cambios de los colaboradores a mi carpeta local
 git clone  Hace la descarga inicial del repositorio a mi máquina local
+git estatus: Es el estado actual en el que se encuentra mirama, todas las versiones que ya hice o modificaciones

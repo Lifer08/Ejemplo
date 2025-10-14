@@ -1,1 +1,13 @@
 GitHub
+Plataforma en la nube para almacenar y compartir repositorios Git
+Crear un repositorio:
+Generas una copia del repositorio original (Fork), repositorio local vinculado al de la nube
+Fork: La cción de copiar un repositorio que te pertenezca
+Pull request: Solicitud para que tus cambios sean integrados en el repositorio original
+El dueño es el que acepta la pull request, o los colaboradores, hasta el mismo que hizo el pull request
+Issues: Espacio para reportarerrores, sugerencias o tareas pendientes del proyecto
+
+
+GitKraken: Herramienta gráfica de Git, facilita la interacción entre versiones
+Se muestra como una línea de todos los commits que se han hecho
+Tiene botones que facilitan crear varias de esas cosas, pero sin los comandos, es directo
